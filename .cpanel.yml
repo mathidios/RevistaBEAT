@@ -1,5 +1,5 @@
 ---
-deployment:
+master:
   tasks:
     - export DEPLOYPATH=/home/aaphogl73d82/repositories/RevistaBEAT
     - /bin/cp -R images $DEPLOYPATH
