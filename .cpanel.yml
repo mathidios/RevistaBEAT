@@ -1,5 +1,5 @@
 ---
-master:
+deployment:
   tasks:
     - export DEPLOYPATH=/home/aaphogl73d82/public_html/
     - /bin/cp -R images $DEPLOYPATH
